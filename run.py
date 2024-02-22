@@ -74,8 +74,8 @@ iface = gr.Interface(
         gr.Number(label="Seed", value=-1) # Need to add `value=-1` means random seed.
     ],
     outputs=gr.Gallery(label="Generated Images"),
-    title="Image Generator",
-    description="Generate images based on your prompts!"
+    title="Stable Cascade,
+    description="Test drive Stability AI's Cascade model."
 )
 
 iface.launch(inbrowser=True)
