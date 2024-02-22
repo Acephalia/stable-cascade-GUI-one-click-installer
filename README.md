@@ -1,3 +1,7 @@
+### GUI 
+1. Follow original installation instructions below (make sure to use a venv)
+2. Use `run.bat` for gradio interface
+
 ## Stable Cascade One-Click Installer
 
 Easy setup for generating beautiful images with Stable Cascade.
