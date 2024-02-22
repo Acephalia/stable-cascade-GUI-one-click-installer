@@ -1,4 +1,4 @@
-### GUI 
+### GUI - Has been merged into the master branch please use that instead. 
 1. Follow original installation instructions below (make sure to use a venv)
 2. Use `run.bat` for gradio interface
 
